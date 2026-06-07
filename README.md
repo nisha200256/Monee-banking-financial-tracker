@@ -100,5 +100,5 @@ Built purely for analytical demonstration purposes.
 ## Contact
 
 **Email:** nishakg2002@gmail.com
-**LinkedIn:** linkedin.com/in/nisha-kg
-**GitHub:** github.com/nisha-kg
+**LinkedIn:** www.linkedin.com/in/nisha-kg-118476335
+**GitHub:** https://github.com/nisha200256
